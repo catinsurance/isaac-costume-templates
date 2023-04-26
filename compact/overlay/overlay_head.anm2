@@ -1,8 +1,8 @@
 <AnimatedActor>
-	<Info CreatedBy="robot" CreatedOn="18.12.2021 17:24:53" Version="109" Fps="30"/>
+	<Info CreatedBy="robot" CreatedOn="4/26/2023 3:46:16 PM" Version="110" Fps="30"/>
 	<Content>
 		<Spritesheets>
-			<Spritesheet Path="anim_head.png" Id="0"/>
+			<Spritesheet Path="overlay_head.png" Id="0"/>
 		</Spritesheets>
 		<Layers>
 			<Layer Name="head" Id="0" SpritesheetId="0"/>

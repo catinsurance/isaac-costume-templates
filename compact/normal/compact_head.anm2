@@ -1,8 +1,8 @@
 <AnimatedActor>
-	<Info CreatedBy="" CreatedOn="01.12.2021 17:26:54" Version="1" Fps="30"/>
+	<Info CreatedBy="" CreatedOn="4/26/2023 3:21:07 PM" Version="2" Fps="30"/>
 	<Content>
 		<Spritesheets>
-			<Spritesheet Path="head.png" Id="0"/>
+			<Spritesheet Path="compact_head.png" Id="0"/>
 		</Spritesheets>
 		<Layers>
 			<Layer Name="head0" Id="0" SpritesheetId="0"/>
