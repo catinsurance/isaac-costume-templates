@@ -1,5 +1,5 @@
 <AnimatedActor>
-	<Info CreatedBy="" CreatedOn="4/26/2023 4:46:52 PM" Version="8" Fps="30"/>
+	<Info CreatedBy="" CreatedOn="7/30/2023 5:40:11 PM" Version="9" Fps="30"/>
 	<Content>
 		<Spritesheets>
 			<Spritesheet Path="full_body.png" Id="0"/>
@@ -14,7 +14,7 @@
 		</Events>
 	</Content>
 	<Animations DefaultAnimation="WalkDown">
-		<Animation Name="WalkLeft" FrameNum="20" Loop="true">
+		<Animation Name="WalkUp" FrameNum="20" Loop="true">
 			<RootAnimation>
 				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="20" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
 			</RootAnimation>
@@ -35,7 +35,7 @@
 			<NullAnimations/>
 			<Triggers/>
 		</Animation>
-		<Animation Name="WalkUp" FrameNum="20" Loop="true">
+		<Animation Name="WalkRight" FrameNum="20" Loop="true">
 			<RootAnimation>
 				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="20" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
 			</RootAnimation>
@@ -56,7 +56,7 @@
 			<NullAnimations/>
 			<Triggers/>
 		</Animation>
-		<Animation Name="WalkRight" FrameNum="20" Loop="true">
+		<Animation Name="WalkDown" FrameNum="20" Loop="true">
 			<RootAnimation>
 				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="20" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
 			</RootAnimation>
@@ -77,7 +77,7 @@
 			<NullAnimations/>
 			<Triggers/>
 		</Animation>
-		<Animation Name="WalkDown" FrameNum="20" Loop="true">
+		<Animation Name="WalkLeft" FrameNum="20" Loop="true">
 			<RootAnimation>
 				<Frame XPosition="0" YPosition="0" XScale="100" YScale="100" Delay="20" Visible="true" RedTint="255" GreenTint="255" BlueTint="255" AlphaTint="255" RedOffset="0" GreenOffset="0" BlueOffset="0" Rotation="0" Interpolated="false"/>
 			</RootAnimation>
